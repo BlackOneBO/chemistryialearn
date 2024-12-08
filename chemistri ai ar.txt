@@ -1,13 +1,109 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My First Webpage</title>
+    <title>Ứng dụng AI và Video trong Giáo dục Hóa học</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        h1 {
+            text-align: center;
+        }
+        section {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome to My Website</h1>
-    <p>This is my first HTML file. I'm learning how to create a website!</p>
+    <h1>Ứng dụng Công nghệ AI và Video trong Giáo dục Hóa học</h1>
+    <section>
+        <h2>1. Mục tiêu của ý tưởng</h2>
+        <ul>
+            <li>Tăng cường an toàn trong học tập và thí nghiệm hóa học.</li>
+            <li>Nâng cao tính tương tác và trải nghiệm thực hành cho học sinh, sinh viên.</li>
+            <li>Tối ưu hóa tài nguyên và giảm thiểu nguy cơ từ việc tiếp xúc trực tiếp với hóa chất nguy hiểm.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>2. Các thành phần chính của hệ thống</h2>
+        <h3>a. Phòng thí nghiệm ảo (AI Virtual Chemistry Lab):</h3>
+        <ul>
+            <li>Mô phỏng hóa chất và phản ứng với độ chính xác cao.</li>
+            <li>Hướng dẫn tương tác thông minh.</li>
+            <li>Cảnh báo sai sót trong quy trình thí nghiệm.</li>
+        </ul>
+        <h3>b. Video minh họa thực hành chuyên sâu:</h3>
+        <ul>
+            <li>Minh họa chi tiết các bước thí nghiệm kèm lưu ý an toàn.</li>
+            <li>Video 360° hoặc tương tác từ nhiều góc độ.</li>
+            <li>Tích hợp giải thích lý thuyết về các phản ứng xảy ra.</li>
+        </ul>
+        <h3>c. AI hỗ trợ chẩn đoán và đánh giá:</h3>
+        <ul>
+            <li>Phân tích quy trình thực hành của người học.</li>
+            <li>Đề xuất cải thiện dựa trên hành vi thực tế.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>3. Lợi ích của hệ thống</h2>
+        <ul>
+            <li><strong>An toàn tuyệt đối:</strong> Không tiếp xúc hóa chất nguy hiểm.</li>
+            <li><strong>Tiết kiệm tài nguyên:</strong> Không cần hóa chất thật hoặc xử lý chất thải.</li>
+            <li><strong>Học tập hiệu quả hơn:</strong> AI cá nhân hóa nội dung và tốc độ học.</li>
+            <li><strong>Ứng dụng mọi lúc, mọi nơi:</strong> Thí nghiệm trên máy tính hoặc thiết bị di động.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>4. Công nghệ sử dụng</h2>
+        <ul>
+            <li><strong>AI và Machine Learning:</strong> Mô phỏng chính xác phản ứng hóa học và tối ưu hóa học tập.</li>
+            <li><strong>Thực tế ảo (VR) và tăng cường (AR):</strong> Tạo môi trường 3D sống động.</li>
+            <li><strong>Video 360° và tương tác:</strong> Quan sát thí nghiệm chi tiết từ nhiều góc độ.</li>
+            <li><strong>Big Data:</strong> Tích hợp cơ sở dữ liệu hóa học phong phú.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>5. Ứng dụng thực tiễn</h2>
+        <ul>
+            <li><strong>Trong giáo dục:</strong> Hỗ trợ học sinh, sinh viên thực hành thí nghiệm.</li>
+            <li><strong>Trong đào tạo:</strong> Đào tạo chuyên sâu cho nhân viên ngành hóa học.</li>
+            <li><strong>Trong nghiên cứu:</strong> Mô phỏng phản ứng mới trước khi thực hiện thực tế.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>6. Một ví dụ cụ thể</h2>
+        <p><strong>Thí nghiệm trung hòa axit và bazơ:</strong></p>
+        <ul>
+            <li>Người học chọn axit và bazơ từ danh sách hóa chất.</li>
+            <li>AI hiển thị cảnh báo về nồng độ và tỷ lệ pha trộn.</li>
+            <li>Hiển thị sự thay đổi màu sắc của chất chỉ thị khi thí nghiệm.</li>
+            <li>Nếu sai sót, AI giải thích nguyên nhân và gợi ý cách khắc phục.</li>
+        </ul>
+    </section>
 </body>
 </html>
-
